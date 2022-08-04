@@ -647,7 +647,7 @@
                             <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
                             <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
                             <li><a href="https://www.linkedin.com/in/eduardo-liendo-152243120/"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                            <li><a href="https://github.com/venemexcoin"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+                            <li><a href="https://github.com/metalentco"><i class="fa fa-github" aria-hidden="true"></i></a></li>
                         </ul>
                     </div>
                 </section>
